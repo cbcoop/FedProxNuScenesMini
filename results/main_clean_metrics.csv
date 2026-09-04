@@ -1,0 +1,2 @@
+algorithm,mu,local_epochs,best_validation_macro_f1,test_accuracy,test_macro_f1,ece,brier,nll
+fedprox,0.01,1,0.866061,0.727683,0.632932,0.111730,0.350399,0.587352

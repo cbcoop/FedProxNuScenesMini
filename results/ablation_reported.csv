@@ -1,0 +1,6 @@
+condition,accuracy,macro_f1
+all_present,0.728,0.633
+no_vision,0.310,0.158
+no_radar,0.728,0.633
+no_depth,0.712,0.585
+no_motion,0.728,0.633

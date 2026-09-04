@@ -1,0 +1,14 @@
+{
+  "algorithm": "fedprox",
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "local_epochs": 1,
+  "mu": 0.01,
+  "communication_rounds": 30,
+  "early_stopping_patience": 10,
+  "participation_rate": 1.0,
+  "batch_size": 32,
+  "modality_dropout_rate": 0.2,
+  "all_missing_rate": 0.02,
+  "seeds": [42, 43, 44, 45, 46]
+}

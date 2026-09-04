@@ -1,0 +1,4 @@
+true_class,pred_vehicle,pred_pedestrian,pred_static_obstacle,recall
+vehicle,1863,513,0,0.7841
+pedestrian,65,1330,45,0.9236
+static_obstacle,9,634,190,0.2281
