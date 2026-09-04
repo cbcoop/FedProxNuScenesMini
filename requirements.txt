@@ -8,3 +8,5 @@ torch>=2.1
 torchvision>=0.16
 tqdm>=4.66
 nuscenes-devkit==1.2.0
+pytest>=8.0
+ruff>=0.6
