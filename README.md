@@ -1,4 +1,4 @@
-# FedProx nuScenes-mini project
+FedProx nuScenes-mini project
 
 This repository contains the code and results from my nuScenes-mini project.
 The task is object classification using camera, radar, depth, and motion
