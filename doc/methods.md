@@ -1,4 +1,4 @@
-# Method
+Method
 
 Each example is an annotated object from nuScenes-mini. The model uses saved
 camera, radar, depth, and motion embeddings to predict whether the object is a
