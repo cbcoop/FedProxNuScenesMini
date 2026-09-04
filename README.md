@@ -13,8 +13,8 @@ in `src/fedprox_nuscenes`. Saved plots and smaller result files are in
 
 To install the packages:
 
-pip install -r requirements.txt
-pip install -e .
+'pip install -r requirements.txt'
+'pip install -e'
 
 
 The nuScenes data, embedding cache, and trained model files are not included
