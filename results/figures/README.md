@@ -1,3 +1,3 @@
-# Figures
+Figures
 
-These plots were extracted from the saved outputs in `FedProxyStart.ipynb`.
+These plots were extracted from the saved outputs in (FedProxyStart.ipynb)
