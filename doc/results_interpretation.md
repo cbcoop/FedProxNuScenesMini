@@ -1,4 +1,4 @@
-# Results
+Results
 
 The main FedProx run had a test accuracy of 0.728 and a macro F1 of 0.633. The
 model performed best on pedestrians and had the most trouble with static
